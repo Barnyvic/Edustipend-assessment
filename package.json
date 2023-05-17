@@ -1,0 +1,17 @@
+{
+  "name": "Edustipend-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Barny victor",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "nodemon": "^2.0.22"
+  }
+}
