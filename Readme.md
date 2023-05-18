@@ -39,7 +39,7 @@ Follow these steps to run the Node.js service:
 Start the server by running the following command:
 
   ```bash
-node index.js
+npm run start
 The server will start running on http://localhost:5000.
 
 Use an API client (e.g., cURL, Postman) to send requests to the API endpoints mentioned above.
